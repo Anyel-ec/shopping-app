@@ -1,5 +1,5 @@
 # View live store apps
-[![Ver video](https://img.youtube.com/vi/ZS6XKohoRTI/maxresdefault.jpg)](https://youtu.be/ZS6XKohoRTI)
+[![Ver video](https://img.youtube.com/vi/ZS6XKohoRTI/maxresdefault.jpg)](https://youtu.be/_QfifRU5DhE)
 
 # Getting Started with Create React App
 
